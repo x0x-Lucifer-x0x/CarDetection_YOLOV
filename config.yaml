@@ -1,0 +1,7 @@
+path: C:\V5C0D3\AI_ML\CarDetection_YOLOV\data
+train: images\train
+val : labels\train
+
+#Classes
+names:
+  0: Cars
